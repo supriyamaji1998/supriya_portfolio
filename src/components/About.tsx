@@ -27,7 +27,7 @@ export default function About() {
             variants={fadeInUp}
           >
             <img
-              src="/sup8.png"
+              src="sup8.png"
               alt="Supriya Maji (Rio)"
               className=" h-full object-cover rounded-2xl"
             />
