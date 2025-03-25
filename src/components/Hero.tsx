@@ -34,7 +34,7 @@ export default function Hero() {
           </div>
             <div className="flex gap-6 mt-10">
             <a 
-            href="/resume_supriyo.pdf" 
+            href="resume_supriyo.pdf" 
             download 
             className=" bg-blue-400 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-500 transition-colors"
             >
@@ -57,7 +57,7 @@ export default function Hero() {
           className="flex-1 flex justify-center"
         >
           <img 
-            src="/supriyaMaji.png" 
+            src="supriyaMaji.png" 
             alt="Supriya Maji"
             className="w-[400px] h-[400px] rounded-full object-cover border-4 border-blue-400 shadow-2xl"
           />
