@@ -58,7 +58,7 @@ export default function Contact() {
           >
             <h3 className="text-2xl font-bold text-gray-900">Let's talk about everything!</h3>
             <p className="text-gray-600">
-              Feel free to reach out for collaborations, opportunities, or just a friendly chat.
+              Feel free to reach out for opportunities.
             </p>
             
             <div className="space-y-6">
