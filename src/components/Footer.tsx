@@ -6,8 +6,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-8 md:mb-0">
-            <h3 className="text-2xl font-bold mb-2">Your Name</h3>
-            <p className="text-gray-400">Building digital experiences</p>
+            <h3 className="text-2xl font-bold mb-2">Supriya Maji | Software Engineer</h3>
+            <p className="text-gray-400">Crafting Scalable & Efficient Solutions</p>
           </div>
           
           <div className="flex space-x-6">
@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Supriya Maji. All rights reserved.</p>
         </div>
       </div>
     </footer>
