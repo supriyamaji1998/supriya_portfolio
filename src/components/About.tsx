@@ -35,8 +35,7 @@ export default function About() {
 
           <motion.div className="space-y-6" variants={staggerContainer}>
             <motion.p className="text-lg text-gray-600" variants={fadeInUp}>
-            👋 Hi, I’m Supriya Maji, a Software Engineer with expertise in Node.js, MongoDB, and Elasticsearch.
-            </motion.p>
+            👋 Hi, I’m Supriya Maji, a Software Engineer specializing in the MERN stack. I'm a passionate tech enthusiast, always eager to explore and adapt to new and emerging technologies. 🚀            </motion.p>
 
             <motion.p className="text-lg text-gray-600" variants={fadeInUp}>
               🔹 Currently, I'm working at CommerceIQ as an Application Engineer 1.<br />
