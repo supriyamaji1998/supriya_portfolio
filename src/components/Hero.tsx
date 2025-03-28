@@ -19,7 +19,7 @@ export default function Hero() {
             Application Engineer at CommerceIQ
           </p>
           <div className="flex gap-4">
-            <a href="https://github.com/supriyamaji" target="_blank" rel="noopener noreferrer" 
+            <a href="https://github.com/supriyamaji1998" target="_blank" rel="noopener noreferrer" 
               className="p-2 hover:text-blue-400 transition-colors">
               <Github size={24} />
             </a>
